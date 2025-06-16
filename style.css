@@ -1,0 +1,34 @@
+.head{
+ text-align: center;   
+}
+
+.one{
+   
+   display: flex;
+   justify-content: space-around;
+
+}
+.two{
+    height: 100%;
+    width: 100%;
+    margin-top: 10%;
+    background-color: peru;
+    
+}
+.newbtn{
+    margin-right: 5%;
+    margin-top: 5px;
+    background-color: red;
+    border: none;
+}
+li{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    
+}
+.btn{
+    background-color: green;
+    color: white;
+    border: none;
+}
